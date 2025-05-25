@@ -1,5 +1,5 @@
 remote_theme: daattali/beautiful-jekyll@6.0.1
-title: My website
+title: Welcome to a Bioinformatician life
 author: Núria Garcia Deltiempo
 
 ###############################################
@@ -105,17 +105,17 @@ navbar-var-length: false
 
 # Personalize the colours in your website. Colour values can be any valid CSS colour
 
-page-col: "#FFFFFF"
-text-col: "#404040"
-link-col: "#008AFF"
-hover-col: "#0085A1"
-navbar-col: "#EAEAEA"
-navbar-text-col: "#404040"
-navbar-border-col: "#DDDDDD"
-footer-col: "#EAEAEA"
-footer-text-col: "#777777"
-footer-link-col: "#404040"
-footer-hover-col: "#0085A1"
+page-col: "#F9FAFB"              # Very light gray for subtle background
+text-col: "#1F2937"              # Dark slate gray for better readability
+link-col: "#2563EB"              # Vivid but elegant blue (modern primary blue)
+hover-col: "#1D4ED8"             # Slightly darker blue for hover state
+navbar-col: "#FFFFFF"            # Clean white navbar
+navbar-text-col: "#1F2937"       # Matches text for consistency
+navbar-border-col: "#E5E7EB"     # Soft gray border
+footer-col: "#F3F4F6"            # Light neutral for contrast with page background
+footer-text-col: "#6B7280"       # Cool gray for footnote text
+footer-link-col: "#1F2937"       # Matches main text
+footer-hover-col: "#2563EB"      # Same as link color for consistency
 
 # Alternatively, the navbar, footer, and page background can be set to an image
 # instead of colour
