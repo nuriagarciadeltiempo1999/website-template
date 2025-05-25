@@ -105,17 +105,17 @@ navbar-var-length: false
 
 # Personalize the colours in your website. Colour values can be any valid CSS colour
 
-page-col: "#F9FAFB"              # Very light gray for subtle background
-text-col: "#1F2937"              # Dark slate gray for better readability
-link-col: "#2563EB"              # Vivid but elegant blue (modern primary blue)
-hover-col: "#1D4ED8"             # Slightly darker blue for hover state
-navbar-col: "#FFFFFF"            # Clean white navbar
-navbar-text-col: "#1F2937"       # Matches text for consistency
-navbar-border-col: "#E5E7EB"     # Soft gray border
-footer-col: "#F3F4F6"            # Light neutral for contrast with page background
-footer-text-col: "#6B7280"       # Cool gray for footnote text
-footer-link-col: "#1F2937"       # Matches main text
-footer-hover-col: "#2563EB"      # Same as link color for consistency
+page-col: "#FFFCF5"              # Soft creamy white (warm background)
+text-col: "#3D3D3D"              # Charcoal gray (good contrast, still soft)
+link-col: "#3FA7D6"              # Sky blue (fresh & optimistic)
+hover-col: "#2D9CDB"             # Deeper sky blue for hover
+navbar-col: "#FFF0F6"            # Light blush pink
+navbar-text-col: "#3D3D3D"       # Same as text for cohesion
+navbar-border-col: "#FFD6E0"     # Soft pink border for warmth
+footer-col: "#E6F9F0"            # Minty green background for freshness
+footer-text-col: "#5C5C5C"       # Slightly lighter than main text
+footer-link-col: "#A555EC"       # Lilac-purple for a pop of spring energy
+footer-hover-col: "#9333EA"      # Richer lilac for hover effect
 
 # Alternatively, the navbar, footer, and page background can be set to an image
 # instead of colour
