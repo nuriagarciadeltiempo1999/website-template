@@ -1,17 +1,32 @@
 ---
 layout: page
-title: About me
+title: About me 
 subtitle: A brief personal description
 ---
 
-My name is Ferran Aran, I am from Lleida and I love learning new skills. Have a look at my background below!
+My name is Núria, and I am passionate about extracting knowledge from data and seeking solutions. I aim to guide my career towards data and statistical analysis to increase the understanding of diseases and improve medical treatments. Below is a summary of my academic background, professional experience, and interests.
 
-### Education
+### 🎓 Education
 
-- Computer science degree at UdL (2019 - 2022)
-- Master in computer science at UdL (2022 - 2024)
-- PhD in RL applied to energy (2024 - present)
+**Bachelor's Degree in Bioinformatics**  
+*UPF-UB-UPC-UAB, Barcelona (2023)*  
+**Final Degree Project (FDP):** Germline-variant prioritization algorithm
 
-### Experience
-- Research assistant on MILP at UdL (2022 - 2023)
-- R&D as Data Scientist at GFT Technologies (2023 - present)
+- Pre-processed raw data for later analysis  
+- Conducted associative analyses with standard Bioconductor tools  
+- Created reproducible reports with R Markdown  
+
+---
+
+### 💼 Experience
+
+**PRBB Extracurricular Internship**  
+*ISGlobal, Bioinformatics Department, PRBB (2017–2019)*
+
+- Participated in bioinformatics research and lab operations  
+
+**Sequentia Biotech Internship**  
+*Bioinformatics Software Development Department, Barcelona (2022–2023)*
+
+- Optimized antimicrobial resistance database  
+- Improved germline-variant prioritization algorithm  
