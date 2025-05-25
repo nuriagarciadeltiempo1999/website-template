@@ -105,17 +105,17 @@ navbar-var-length: false
 
 # Personalize the colours in your website. Colour values can be any valid CSS colour
 
-page-col: "#FFFCF5"              # Soft creamy white (warm background)
-text-col: "#3D3D3D"              # Charcoal gray (good contrast, still soft)
-link-col: "#3FA7D6"              # Sky blue (fresh & optimistic)
-hover-col: "#2D9CDB"             # Deeper sky blue for hover
-navbar-col: "#FFF0F6"            # Light blush pink
-navbar-text-col: "#3D3D3D"       # Same as text for cohesion
-navbar-border-col: "#FFD6E0"     # Soft pink border for warmth
-footer-col: "#E6F9F0"            # Minty green background for freshness
-footer-text-col: "#5C5C5C"       # Slightly lighter than main text
-footer-link-col: "#A555EC"       # Lilac-purple for a pop of spring energy
-footer-hover-col: "#9333EA"      # Richer lilac for hover effect
+page-col: "#FFF7F0"              # Bright peach background (vibrant but soft on eyes)
+text-col: "#1E1E1E"              # Rich black for high contrast
+link-col: "#007ACC"              # Strong sky blue (used in VS Code and GitHub themes)
+hover-col: "#005A9E"             # Deep azure for hover effect
+navbar-col: "#FFCCE5"            # Bold blush pink (more saturated)
+navbar-text-col: "#1E1E1E"       # High contrast for readability
+navbar-border-col: "#FF99CC"     # Bright pink border for visual pop
+footer-col: "#C5FAD5"            # Lively mint green (pastel but more saturated)
+footer-text-col: "#2F2F2F"       # Darker text for contrast
+footer-link-col: "#9932CC"       # Vivid purple for vibrant links
+footer-hover-col: "#8000FF"      # Electric purple for hover action
 
 # Alternatively, the navbar, footer, and page background can be set to an image
 # instead of colour
