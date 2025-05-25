@@ -1,0 +1,48 @@
+# Galaxy: Democratizing Cloud-Based Bioinformatics Analysis
+
+In today’s biomedical research landscape, the ability to analyze and interpret large-scale biological data is crucial. However, not all researchers have access to advanced computational infrastructure or bioinformatics expertise. **Enter Galaxy**: an open-source, cloud-enabled platform that has revolutionized how scientists approach genomics, transcriptomics, and other omics data analysis.
+
+## What is Galaxy and How Does it Work in the Cloud?
+
+**Galaxy** is a web-based platform designed to make complex bioinformatics workflows accessible to everyone, regardless of programming skills. Through its intuitive graphical interface, users can:
+
+- Upload data  
+- Build and execute analysis pipelines  
+- Visualize results — all within a browser  
+
+With **cloud integration**, Galaxy can be deployed on infrastructures like **AWS, Google Cloud**, or **Azure**. This allows users to tap into virtually unlimited computational resources on demand.
+
+- **Public Galaxy servers** (e.g., [usegalaxy.org](https://usegalaxy.org), [usegalaxy.eu](https://usegalaxy.eu)) offer free access to a wide range of tools and workflows.  
+- **Private cloud deployments** support secure analysis of sensitive clinical or genomic data.
+
+Tools like **GalaxyCloudRunner** automatically scale computational resources by sending jobs to the cloud when local resources are maxed out — ensuring efficiency and scalability for large projects.
+
+## Case Study: Detecting Heteroplasmic Variants in Mitochondrial DNA
+
+A compelling example of Galaxy’s cloud capabilities is its use in identifying **heteroplasmic variants in mitochondrial DNA (mtDNA)** — a key challenge in rare and genetic disease research.
+
+In a study using sequencing data from nine individuals across three families, researchers built Galaxy workflows to:
+
+- Map reads  
+- Separate DNA strands  
+- Convert data formats  
+- Filter for variants  
+
+Ultimately, they pinpointed **heteroplasmic sites** with high accuracy.
+
+### Key Advantages Highlighted:
+
+- **Privacy and Security**: Analyze sensitive clinical samples in private/protected cloud environments  
+- **Scalability**: Automatically scales resources with workload, reducing costs and delays  
+- **Reproducibility**: Workflows are documented, shareable, and reusable  
+- **Flexibility**: Combine validated tools or create custom analyses  
+
+## Galaxy and Data Science Integration
+
+Galaxy bridges **bioinformatics** and **data science** by enabling users to export results for:
+
+- Advanced statistical analysis  
+- Machine learning  
+- Interactive visualization  
+
+Its modular design and active community support a growing ecosystem of tools, including those for **big data analytics** and **integrative omics**.
